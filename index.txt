@@ -1,0 +1,83 @@
+Luis Liñán Villafranca
+
+------------------------------------------------------------------------
+
+  English B2 (FCE) level
+  GitHub, GitLab
+
+------------------------------------------------------------------------
+
+Experience
+
+2019 - Now
+
+    Software Engineer for Real-Time Innovations (Granada, Spain)
+
+    Internal Tools team member. Worked in the main product build system
+    with CMake and Conan. Also worked in an automation Python tool and
+    used Jenkins for CI/CD.
+
+2019 (6 months)
+
+    Software Engineer Intern for Real-Time Innovations (Granada, Spain)
+
+    RTI Community GitHub examples repositiory improvements and rework.
+    Added CI with Travis-CI and added various automation scripts.
+
+Education
+
+12/13 - 18/19
+
+    Degree in Computer Engineering at ETSIIT, University of Granada
+    (Granada, Spain)
+
+    Escuela Técnica Superior de Ingenierías Informática y de
+    Telecomunicación (ETSIIT).
+
+Skills
+
+Programming Languages
+
+    Advanced: C++ (11, 14), C, Python (2, 3), CMake
+
+    Intermediate: Java, JavaScript, MySQL, R, Rust
+
+    Basic: Go, PHP
+
+OS Libs and Frameworks
+
+    JavaScript - Three.js, jQuery, dat.gui
+
+    Python - scikit-learn, Matplotlib, pandas, NumPy, Tkinter, hug,
+    NetworkX
+
+    C++ - STL, OpenGL
+
+Other Software
+    Git, Gephi, LATEX, HTML5, CSS3, GIMP, Lex, Docker
+
+Projects
+
+Python
+    DeepGProp - Final degree project focussed in multilayer perceptron
+    networks optimization with genetic algorithms.
+    Bot Calendario de Telegram - Web app with a Telegram bot to interact
+    with it. Addevents and reminders to keep every objective up to date.
+
+Rust
+    OD - Oxigen-18 and Deuterium measures correction with patterns
+
+C, Lex, Python
+    LEX Email Catcher - Text files parser to extract every email
+    addresses from them.
+
+Javascript (TreeJS)
+    Robot - 3D robot minigame.
+    Tanks n' ducks - 3D Tanks!-insipired web game.
+
+------------------------------------------------------------------------
+
+  <luislivilla at gmail dot com> • +34 638 862 132
+  Granada, Spain
+
+  pdf version • txt version • doc version • html version
