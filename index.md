@@ -91,8 +91,7 @@ Javascript (TreeJS)
 > \<luislivilla at gmail dot com\> • +34 638 862 132\
 >  Granada, Spain
 
-> [pdf version][pdf] • [txt version][txt] • [doc version][doc] •
-  [html version][html]
+> [pdf version][pdf] • [txt version][txt] • [html version][html]
 
 [gitlab]: https://gitlab.com/lulivi "GitLab web page for the user lulivi"
 [github]: https://github.com/lulivi "GitHub web page for the user lulivi"
@@ -111,5 +110,4 @@ Javascript (TreeJS)
     "Tanks n' ducks repository"
 [pdf]: index.pdf
 [txt]: index.txt
-[doc]: index.doc
 [html]: index.html
